@@ -1,0 +1,61 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#video,
+#video2 {
+    display: block;
+	text-align:center;
+	margin-right:10px;
+}
+
+.holder {
+	text-align:center;
+    background: transparent;
+    padding: 10px;
+    border: 1px solid red;
+	margin-bottom:15px;
+	width:500px;
+}
+
+#playlist {
+    margin: 0;
+    padding: 0;
+	overflow: auto;
+	width:500px;
+}
+
+#playlist ul {
+	height:125px;
+	width:2350px;
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    list-style-type: none;
+    display:inline;
+    background: #f1f1f1;
+    float: left;
+    width: 221px;
+    margin: 5px;
+	padding:2px;
+
+}
+
+ul li img {
+    width: 120px;
+    float: left;
+    margin-right: 5px;
+    border: 1px solid #999;
+}
+
+ul li a {
+    font-family: georgia;
+    text-decoration: none;
+    display: block;
+    color: #000;
+}
+
+.currentvideo {
+	background: #e6e6e6;
+}
