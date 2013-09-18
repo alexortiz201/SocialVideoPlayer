@@ -1,0 +1,52 @@
+{ "videos": {
+        "01":{
+            "title": "The Golem (1920) 1",
+            "link": "http://youtu.be/9Aow8kdrsW8",
+            "src": "new youtube"
+        },
+        "02":{
+            "title": "The Golem (1920) 2",
+            "link": "http://youtu.be/fjba5lz8L0s",
+            "src": "new youtube"
+        },
+        "03":{
+            "title": "The Golem (1920) 3",
+            "link": "http://youtu.be/LMtJjOfVfAw",
+            "src": "new youtube"
+        },
+        "04":{
+            "title": "Peter Travers with the BQE Project and the Golem",
+            "link": "http://youtu.be/jocqVQ_26ug",
+            "src": "new youtube"
+        },
+        "05":{
+            "title": "Fadeaway / Koko the Clown (1929)",
+            "link": "http://youtu.be/qUimt_zByGk",
+            "src": "new youtube"
+        },
+        "06":{
+            "title": "Sherlock Jr. (1924)",
+            "link": "http://www.myspace.com/thebqeproject/videos/video/102235427",
+            "src": "myspace"
+        },
+        "07":{
+            "title": "Frankenstein (1931)",
+            "link": "http://youtu.be/RGepcQrhpCI",
+            "src": "new youtube"
+        },
+        "08":{
+            "title": "Felix the Cat (1928)",
+            "link": "http://youtu.be/cBDqwicQnzM",
+            "src": "new youtube"
+        },
+        "09":{
+            "title": "Battling Butler Excerpts (1926) - part I",
+            "link": "http://www.myspace.com/thebqeproject/videos/video/107944714",
+            "src": "myspace"
+        },
+        "10":{
+            "title": "Battling Butler Excerpts (1926) - part II",
+            "link": "http://www.myspace.com/thebqeproject/videos/video/107944714",
+            "src": "myspace"
+        }
+}}
